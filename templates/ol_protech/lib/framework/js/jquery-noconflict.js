@@ -1,0 +1,7 @@
+/*---------------------------------------------------------------
+
+# Author - olwebdesign http://www.olwebdesign.com
+# Copyright (C) 2008 - 2015 olwebdesign.com. All Rights Reserved.
+# Websites: http://www.olwebdesign.com
+-----------------------------------------------------------------*/
+jQuery.noConflict();

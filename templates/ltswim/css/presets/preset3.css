@@ -1,0 +1,187 @@
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #90d310;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #90d310;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #90d310;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #90d310;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #90d310;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #90d310;
+}
+.sp-page-title {
+  background: #90d310;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #90d310;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #90d310;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #90d310;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #90d310;
+}
+.search .btn-toolbar button {
+  background: #90d310;
+}
+.post-format {
+  background: #90d310;
+}
+.voting-symbol span.star.active:before {
+  color: #90d310;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #90d310;
+}
+blockquote {
+  border-color: #90d310;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #90d310;
+}
+#sp-footer {
+  background: #90d310;
+}
+.sp-comingsoon body {
+  background-color: #90d310;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #90d310;
+  background-color: #90d310;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #90d310;
+  background-color: #90d310;
+}
+.lt-title h6,
+.lt-slider .tp-caption a,
+.lt-intro-item:hover i,
+.lt-intro-item i,
+.lt-feature-item:hover i,
+.lt-table-item .table-price,
+.lt-table-item:hover button,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover button,
+.lt-team-item .qx-person-img:before {
+  background: #90d310;
+}
+
+.lt-feature-item h4,
+.lt-intro-item h4,
+.lt-table-item h3,
+.lt-table-item h3,
+.lt-table-item:hover .table-price span.price,
+.lt-table-item:hover .table-price span.curriency,
+.lt-table-item:hover .table-price span.month,
+.lt-table-item .table-price .price,
+.lt-table-item button:hover,
+.lt-intro-item:hover i,
+.lt-table-item .table-price .price,
+.lt-testimonial p.qx-designation,
+.lt-testimonial button,
+.lt-team-item h4 {
+  color: #90d310; 
+}
+.lt-feature-item:hover i,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover,
+.lt-table-item button a,
+.lt-subscribe-content table .button:hover {
+  border-color: #90d310;
+}
+/* Important */
+.lt-services-item:hover i,
+.lt-our-progress i,
+ #sp-top2 a,
+.lt-services-item:hover h4 {
+  color: #90d310!important; 
+}
+.lt-contact #sp-quickcontact-form .button:hover,
+.projects-filter a.selected,
+#lt-about-item-button,
+#lt-populer-item-button,
+.lt-contact-form button,
+.lt-table-item button,
+#lt-button-skill .qx-btn,
+#portfolio-module-125 .projects-wrapper .project-img .project-img-extra .project-icon,
+.lt-table-item:hover,
+.lt-skill-item .qx-progress-bar,
+.lt-subscribe-content table .button:hover {
+  background: #90d310!important;  
+}
+.lt-contact #sp-quickcontact-form .button:hover,
+#lt-about-item-button  {
+  border-color: #90d310!important; 
+}
+
+.lt-title h2 {
+    background: url(../../images/header-title.png)no-repeat bottom center;
+}
+#portfolio-module-125 .projects-wrapper .project-img .project-img-extra {
+    background-color: rgba(144, 211, 16, 0.5)!important;
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , rgba(144, 211, 16, 0.59) 0%, rgba(144, 211, 16, 0.51) 100%)!important;
+}
+
+.nav-items > div:first-child,
+.nav-items > div,
+.nav-items > div:last-child {
+  border: 1px solid #90d310;
+}
+a {
+  color: #90d310;
+}

@@ -1,0 +1,189 @@
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #eeaa00;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #eeaa00;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #eeaa00;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #eeaa00;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #eeaa00;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #eeaa00;
+}
+.sp-page-title {
+  background: #eeaa00;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #ffcc01;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #eeaa00;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #eeaa00;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #eeaa00;
+}
+.search .btn-toolbar button {
+  background: #eeaa00;
+}
+.post-format {
+  background: #eeaa00;
+}
+.voting-symbol span.star.active:before {
+  color: #eeaa00;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #eeaa00;
+}
+blockquote {
+  border-color: #eeaa00;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #eeaa00;
+}
+#sp-footer {
+  background: #009ed9;
+}
+.sp-comingsoon body {
+  background-color: #eeaa00;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #eeaa00;
+  background-color: #eeaa00;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #eeaa00;
+  background-color: #eeaa00;
+}
+.lt-title h6,
+.lt-slider .tp-caption a,
+.lt-intro-item:hover i,
+.lt-intro-item i,
+.lt-feature-item:hover i,
+.lt-table-item .table-price,
+.lt-table-item:hover button,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover button,
+.lt-team-item .qx-person-img:before {
+  background: #eeaa00;
+}
+
+.lt-feature-item h4,
+.lt-intro-item h4,
+.lt-table-item h3,
+.lt-table-item h3,
+.lt-table-item:hover .table-price span.price,
+.lt-table-item:hover .table-price span.curriency,
+.lt-table-item:hover .table-price span.month,
+.lt-table-item .table-price .price,
+.lt-table-item button:hover,
+.lt-intro-item:hover i,
+.lt-table-item .table-price .price,
+.lt-testimonial p.qx-designation,
+.lt-testimonial button,
+.lt-team-item h4 {
+  color: #eeaa00; 
+}
+.lt-feature-item:hover i,
+.lt-portfolio-button:hover,
+.lt-action-button:hover,
+.lt-table-item:hover,
+.lt-table-item button a,
+.lt-subscribe-content table .button:hover {
+  border-color: #eeaa00;
+}
+/* Important */
+.lt-services-item:hover i,
+.lt-our-progress i,
+ #sp-top2 a,
+.lt-services-item:hover h4 {
+  color: #eeaa00!important; 
+}
+.lt-contact #sp-quickcontact-form .button:hover,
+.projects-filter a.selected,
+#lt-about-item-button,
+#lt-populer-item-button,
+.lt-contact-form button,
+#portfolio-module-125 .projects-wrapper .project-img .project-img-extra .project-icon,
+.lt-table-item button,
+.lt-table-item:hover,
+#lt-button-skill .qx-btn,
+.lt-skill-item .qx-progress-bar,
+.lt-subscribe-content table .button:hover {
+  background: #eeaa00!important;  
+}
+#lt-skill-item {
+  background-color: rgba(255, 204, 1, 0.55)!important;
+}
+.lt-contact #sp-quickcontact-form .button:hover,
+#lt-about-item-button  {
+  border-color: #eeaa00!important; 
+}
+.lt-title h2 {
+    background: url(../../images/header-title-4.png)no-repeat bottom center;
+}
+#portfolio-module-125 .projects-wrapper .project-img .project-img-extra {
+    background-color: rgba(255, 204, 1, 0.58)!important;
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , rgba(255, 204, 1, 0.55) 0%, rgba(255, 204, 1, 0.63) 100%)!important;
+}
+
+.nav-items > div:first-child,
+.nav-items > div,
+.nav-items > div:last-child {
+  border: 1px solid #eeaa00;
+}
+a {
+  color: #eeaa00;
+}
